@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @NTthapa365
 - 👀 I’m interested in Marketing Analytics
-- 🌱 I’m currently learning r-programming, and python
+- 🌱 I’m currently learning r-programming and python
 - 💞️ I’m looking to collaborate on 
 - 📫 How to reach me g-mail ID: thapanischal700@gmail.com
 - 😄 Pronouns: He/Him
